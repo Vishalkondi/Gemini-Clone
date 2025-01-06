@@ -3,6 +3,8 @@
 **Gemini Clone** is a React.js-based web application that simulates a conversational AI experience. It leverages Google's Generative AI to provide users with dynamic responses to their prompts. The project features a sidebar for navigation and a main content area for interaction with the AI.
 
 ---
+![Screenshot (34)](https://github.com/user-attachments/assets/79d76d6a-440b-45a2-81ac-57ad167ba1a6)
+
 
 ## Features
 
